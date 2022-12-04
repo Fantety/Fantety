@@ -7,6 +7,8 @@
   <img align="left" alt="Fantety | Twitter" width="22px" src="https://github.com/Fantety/Fantety/blob/master/icons/twitter.svg" />
 </a>
 <br />
+<br />
+
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fantety&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
