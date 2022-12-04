@@ -4,7 +4,7 @@
   <img align="left" alt="Fantety | Bilibili" width="22px" src="https://github.com/Fantety/Fantety/blob/master/icons/bilibili.svg" />
 </a>
 <a href="https://twitter.com/Fantety1">
-  <img align="left" alt="Fantety | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Fantety | Twitter" width="22px" src="https://github.com/Fantety/Fantety/blob/master/icons/twitter.svg" />
 </a>
 <br />
 📈 my github stats
