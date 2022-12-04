@@ -1,4 +1,7 @@
 ### Hi there, I am Fantety👋
+<a href="https://space.bilibili.com/87643009">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fantety&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
