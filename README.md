@@ -10,10 +10,10 @@
 <br />
 
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fantety&show_icons=true&theme=gotham" alt="Fantety" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Fantety&show_icons=true&theme=gotham" alt="Fantety" />
   
 ⚡ most used language
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantety&show_icons=true&theme=gotham" alt="Fantety" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantety&show_icons=true&theme=gotham" alt="Fantety" />
 
 
 <!--
