@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, I am Fantety👋
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?labelColor=495867&color=495867&username=Fantety)]()
+📈 my github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fantety&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 <!--
 **Fantety/Fantety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
