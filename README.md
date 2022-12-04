@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Fantety)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?labelColor=495867&color=495867&username=Fantety)]()
 <!--
 **Fantety/Fantety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
