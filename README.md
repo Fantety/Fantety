@@ -3,9 +3,6 @@
 <a href="https://space.bilibili.com/87643009">
   <img align="left" alt="Fantety | Bilibili" width="22px" src="https://github.com/Fantety/Fantety/blob/master/icons/bilibili.svg" />
 </a>
-<a href="https://twitter.com/Fantety1">
-  <img align="left" alt="Fantety | Twitter" width="22px" src="https://github.com/Fantety/Fantety/blob/master/icons/twitter.svg" />
-</a>
 <br />
 <br />
 
