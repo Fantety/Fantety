@@ -32,10 +32,19 @@ Strive to become a true Hexagonal Warrior .
 <br />
 
 ### My github stats
-<div style="display: flex; gap: 16px; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fantety&show_icons=true&theme=gotham" alt="Fantety" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantety&show_icons=true&theme=gotham&layout=donut" alt="Fantety" style="max-width: 100%; height: auto;" />
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Fantety&show_icons=true&theme=gotham" 
+    alt="Fantety" 
+    style="height: 200px; width: auto;"  
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantety&show_icons=true&theme=gotham&layout=donut" 
+    alt="Fantety" 
+    style="height: 200px; width: auto;"  
+  />
 </div>
+
 
 
 
