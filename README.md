@@ -8,7 +8,7 @@ Strive to become a true Hexagonal Warrior .
   <img align="left" alt="Fantety | Bilibili" width="22px" src="https://github.com/Fantety/Fantety/blob/master/icons/bilibili.svg" />
 </a>
 <a href="https://fantety.github.io">
-  <img align="left" alt="Fantety | Blog" width="22px" src="https://github.com/Fantety/Fantety/blob/master/icons/bilibili.svg" />
+  <img align="left" alt="Fantety | Blog" width="22px" src="https://github.com/Fantety/Fantety/blob/master/icons/hexo.svg" />
 </a>
 
 <br />
